@@ -2,13 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 20%
+    right: 80%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
+    top: 42%
     right: 30%
+  &-3
+    animation: float2 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 40%
+    right: 70%
 
 
 @keyframes float1
@@ -17,3 +22,28 @@
 
   100%
     transform: translateY(0px)
+
+@keyframes float2
+  0%
+    transform: scale(1)
+
+  100%
+    transform: scale(0.7)
+
+@media (min-width: 992px)
+  .desktop 
+    display: inline
+  .movil 
+    display: none
+@media (max-width: 991px)
+  .movil 
+    display: inline
+  .desktop 
+    display: none
+
+
+.text-decorator
+  text-decoration: underline
+  color: #283A98
+  font-size: 20px
+    

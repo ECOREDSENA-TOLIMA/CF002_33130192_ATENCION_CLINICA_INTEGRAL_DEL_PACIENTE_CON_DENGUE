@@ -1,7 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
+    componenteFormativo: 'Curso de la enfermedad y tratamiento',
+    descripcionCurso:
+      'El abordaje del paciente con diagnóstico probable de dengue tiene como objetivo identificar la fase clínica de la enfermedad en la que se encuentra. Esta información es necesaria para instaurar un manejo adecuado y rápido evitando así que entre en choque y muera. El manejo puede ser ambulatorio u hospitalario, si presenta inestabilidad hemodinámica o signos de dengue grave.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -12,6 +13,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
@@ -31,13 +36,18 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Evolución',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
+            titulo: 'Concepto',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Signos y Síntomas',
+            hash: 't_1_2',
           },
         ],
       },
@@ -45,14 +55,58 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Secuencia de los Signos Clínicos.',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '2.1',
+            titulo: 'Diagnósticos',
+            hash: 't_2_1',
+          },
+          {
+            numero: '2.2',
+            titulo: 'Clasificación para el manejo del Dengue:',
+            hash: 't_2_2',
+          },
+          {
+            numero: '2.3',
+            titulo: 'Grupos de Riesgo',
+            hash: 't_2_3',
+          },
+          {
+            numero: '2.4',
+            titulo: 'Manejo',
+            hash: 't_2_4',
+          },
+        ],
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Tratamiento',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Atención de primer nivel',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Atención de segundo nivel',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo: 'Atención de Tercer Nivel',
+            hash: 't_3_3',
+          },
+          {
+            numero: '3.4',
+            titulo: 'Criterios de Egresos.',
+            hash: 't_3_4',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -97,10 +151,10 @@ export default {
   },
   complementario: [
     {
-      tema: '',
+      tema: 'Secuencias de los signos clínicos',
       referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
+      tipo: 'Artículo',
+      link: '',
     },
     {
       tema: '',
@@ -111,7 +165,7 @@ export default {
   ],
   glosario: [
     {
-      termino: '',
+      termino: 'Atención',
       significado: '',
     },
     {
