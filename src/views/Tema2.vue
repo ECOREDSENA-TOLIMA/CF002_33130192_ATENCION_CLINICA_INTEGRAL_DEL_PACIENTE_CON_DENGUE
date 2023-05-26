@@ -166,38 +166,39 @@ export default {
     datosSlyder: [
       {
         titulo: 'Fiebre elevada:',
-        texto: 'Debe sospecharse que una persona tiene dengue cuando presenta una fiebre elevada (40 °C/104 °F) acompañada de dos de los siguientes síntomas durante la fase febril (2 a 7 días): dolor de cabeza muy intenso. dolor detrás de los globos oculares. dolores musculares y articulares.',
+        texto:
+          'Debe sospecharse que una persona tiene dengue cuando presenta una fiebre elevada (40 °C/104 °F) acompañada de dos de los siguientes síntomas durante la fase febril (2 a 7 días): dolor de cabeza muy intenso. dolor detrás de los globos oculares. dolores musculares y articulares.',
         imagen: require('@/assets/curso/temas/Tema2/1.svg'),
       },
       {
         titulo: 'Detección de anticuerpos:',
         texto:
           'El diagnóstico definitivo de infección por dengue se hace en el laboratorio y depende de la detección de anticuerpos específicos en el suero del paciente, de la detección del antígeno viral o el RNA viral en el suero o tejido o el aislamiento viral.',
-        imagen: require('@/assets/curso/temas/Tema2/2.svg')
+        imagen: require('@/assets/curso/temas/Tema2/2.svg'),
       },
       {
         titulo: 'Evaluación y signos de alarma:',
         texto:
           'Posteriormente la evaluación diaria hasta que pase el periodo crítico (48 horas después de la caída de la fiebre) donde se tiene que evaluar el recuento de plaquetas, hematocrito y aparición de signos de alarma.',
-        imagen: require('@/assets/curso/temas/Tema2/3.svg')
+        imagen: require('@/assets/curso/temas/Tema2/3.svg'),
       },
       {
         titulo: 'Tratamiento a signos de alarma:',
         texto:
           'Los signos de alarma indican el momento en el cual el paciente puede ser salvado si recibe tratamiento con soluciones hidroelectrolíticas en cantidades suficientes para reponer las perdidas producidas por la extravasación de plasma, a veces agravada por pérdidas al exterior (sudoración, vómitos, diarreas).',
-        imagen: require('@/assets/curso/temas/Tema2/4.svg')
+        imagen: require('@/assets/curso/temas/Tema2/4.svg'),
       },
       {
         titulo: 'Etapa crítica:',
         texto:
           'Entre el 3º y 6º día para los niños, y entre el 4º y 6º día para los adultos (como período más frecuente pero no exclusivo de los enfermos que evolucionan al dengue grave) la fiebre desciende, el dolor abdominal se hace intenso y mantenido, se observa derrame pleural o ascitis, los vómitos aumentan en frecuencia y comienza la ETAPA CRÌTICA de la enfermedad, por cuanto es el momento de mayor frecuencia de instalación del choque. ',
-        imagen: require('@/assets/curso/temas/Tema2/5.svg')
+        imagen: require('@/assets/curso/temas/Tema2/5.svg'),
       },
       {
         titulo: 'Etapa de recuperación:',
         texto:
           'Después de la etapa crítica, el enfermo pasa un tiempo variable en la ETAPA DE RECUPERACIÓN, durante este período es que el paciente debe eliminar fisiológicamente el exceso de líquidos que se había extravasado hasta normalizar todas sus funciones vitales. Algunos pacientes adultos se mantienen muchos días con astenia y algunos refieren bradipsiquia durante semanas. ',
-        imagen: require('@/assets/curso/temas/Tema2/6.svg')
+        imagen: require('@/assets/curso/temas/Tema2/6.svg'),
       },
     ],
   }),
