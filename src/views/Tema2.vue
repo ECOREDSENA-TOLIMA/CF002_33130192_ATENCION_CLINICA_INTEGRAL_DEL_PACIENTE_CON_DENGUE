@@ -40,10 +40,10 @@
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    br
-    br
-    .titulo-segundo.mt-5
-      h2#t_2_2 2.2 Clasificación para el manejo del Dengue:
+    
+    Separador
+    #t_2_2.titulo-segundo.mt-2.color-acento-contenido
+      h2 2.2 Clasificación para el manejo del Dengue:
 
     .row
       .col-md-12
@@ -119,12 +119,10 @@
                 img(src='@/assets/curso/temas/Tema2/12.svg', alt='')
             .col-md-6.mb-4.mb-md-0
               p(style="text-align: left") Durante una epidemia es posible que se presente alguno de estos casos: hepatitis o hepatopatía, que conduce a fallo hepático agudo, encefalitis o encefalopatía, expresada frecuentemente en alteraciones de la conciencia (coma) a veces también con convulsiones; miocarditis o miocardiopatía, que se manifiesta como hipo contractilidad miocárdica con disminución de la fracción de eyección del ventrículo izquierdo y posible insuficiencia cardiaca; así́ como nefritis o nefropatía que puede ser causa de insuficiencia renal agudo o puede afectar selectivamente a la función de reabsorción propia del túbulo renal distal y de esa manera contribuir al aumento de líquido del espacio extravascular.
-                
-    br
-    br
-    .titulo-segundo.mt-5
-      h2#t_2_3 2.3 Grupos de Riesgo
-
+               
+    Separador
+    #t_2_3.titulo-segundo.mt-2.color-acento-contenido
+      h2 2.3 Grupos de Riesgo
 
     .col-md-12
       .bloque-texto-a__texto.caja_escalada_hover(style="background-color: #54397C; border-radius: 15px")
@@ -147,15 +145,105 @@
                 | Patologías del corazón o enfermedades crónicas: Se incluyen la obesidad, enfermedades de riñón y diabetes
     br
     br
-    .titulo-segundo.mt-5
-      h2#t_2_3 Complicaciones
-    
-    br
-    br
-    .titulo-segundo.mt-5
-      h2#t_2_3 Serotipos de dengue:
 
-      p.px-3.pt-1.pb-3(data-aos="fade-up") La infección por un serotipo, seguida por otra infección con un serotipo diferente aumenta el riesgo de una persona de padecer dengue grave y hasta morir.
+    div.d-flex.mb-4.mt-5
+      div.p-0.position-relative
+        img.mb-0.position-relative(style="width:45px;" src="@/assets/template/ico-01.svg")
+      div.py-2.px-3.pe-5
+        h4.mb-0.text-decorator Complicaciones
+    
+    .row.mb-5
+      .col-sm-12.col-lg-4.mt-2
+        figure
+          img(src="@/assets/curso/temas/Tema2/24.svg", alt="alt").img250
+      .col-sm-12.col-lg-4.mt-2
+        figure
+          img(src="@/assets/curso/temas/Tema2/25.svg", alt="alt").img250
+      .col-sm-12.col-lg-4.mt-2
+        figure
+          img(src="@/assets/curso/temas/Tema2/26.svg", alt="alt").img250
+        
+
+
+
+
+    div.d-flex.mb-4.mt-5
+      div.p-0.position-relative
+        img.mb-0.position-relative(style="width:45px;" src="@/assets/template/ico-01.svg")
+      div.py-2.px-3.pe-5
+        h4.mb-0.text-decorator Serotipos de dengue:
+    
+    .row.mb-3
+      .col-sm-12.col-md-6.col-lg-3
+        figure
+          img(src='@/assets/curso/temas/Tema2/20.png', alt='')
+      .col-sm-12.col-md-6.col-lg-3
+        figure
+          img(src='@/assets/curso/temas/Tema2/21.png', alt='')
+      .col-sm-12.col-md-6.col-lg-3
+        figure
+          img(src='@/assets/curso/temas/Tema2/22.png', alt='')
+      .col-sm-12.col-md-6.col-lg-3
+        figure
+          img(src='@/assets/curso/temas/Tema2/23.png', alt='')
+    br
+    p.px-3.mt-3.pb-3(data-aos="fade-up") La infección por un serotipo, seguida por otra infección con un serotipo diferente aumenta el riesgo de una persona de padecer dengue grave y hasta morir.
+
+    div.d-flex.mb-4.mt-5
+      div.p-0.position-relative
+        img.mb-0.position-relative(style="width:45px;" src="@/assets/template/ico-01.svg")
+      div.py-2.px-3.pe-5
+        h4.mb-0.text-decorator Factores de Riesgo: 
+        
+    p.px-3.pt-1.pb-3(data-aos="fade-up") Cualquier característica o circunstancia detectable de una persona o grupo de personas asociadas con la probabilidad de estar especialmente expuesta a desarrollar o padecer un proceso mórbido, sus características se asocian a un cierto tipo de daño a la salud.
+    br
+
+    .row
+      .col-sm-12.col-lg-10.offset-lg-1.mb-4.mb-md-0
+        figure
+          img(src='@/assets/curso/temas/Tema2/16.svg', alt='')
+    .row
+      .col-sm-12.col-lg-10.offset-lg-1.mb-4.mb-md-0
+        .pt-4.px-4.pb-3.caja_flotante(style="background-color: #E2E7FE")
+          .row
+            .col-sm-12.col-lg-7
+          p.px-3.pt-1.pb-3(data-aos="fade-up") Este grupo de riesgo define al dengue como un problema de salud pública en la región de las Américas a pesar de los esfuerzos por parte de los Estados Miembros para contenerlo y mitigar el impacto de las epidemias.
+          p.px-3.pt-1.pb-3(data-aos="fade-up") El dengue requiere abordarse como una única enfermedad con presentaciones clínicas diferentes que van de estados benignos hasta evolución clínica severa y desenlaces que causan la muerte.
+    
+    Separador
+    #t_2_4.titulo-segundo.mt-2.color-acento-contenido
+      h2 2.4 Manejo
+    
+    p.px-3.pt-1.pb-3(data-aos="fade-up") Para una enfermedad que es compleja en sus manifestaciones, el tratamiento es relativamente simple, barato y muy efectivo para salvar vidas, siempre y cuando se hagan las intervenciones correctas y oportunas. 
+
+    .row 
+      .col-md-10.offset-md-1
+        .bloque-texto-g.color-primario.p-4
+          .bloque-texto-g__img(
+            :style="{'background-image': `url(${require('@/assets/curso/temas/Tema2/27.svg')})`}"
+          )
+          .bloque-texto-g__texto.p-4
+            p.pt-1.pb-3(data-aos="fade-up") La clave es la identificación temprana y la comprensión de los problemas clínicos durante las diferentes fases de la enfermedad, lo que da lugar a un enfoque racional del abordaje de casos y una buena respuesta clínica.
+            br
+            br
+            p.pt-1.pb-3(data-aos="fade-up") Las actividades de gestión, triaje y tratamiento en los niveles primario y secundario de atención, donde los pacientes son vistos y evaluados inicialmente, son fundamentales para determinar el resultado clínico del dengue. 
+
+    p.px-3.mt-3.pb-3(data-aos="fade-up") Una buena atención primaria no sólo reduce el número de hospitalizaciones innecesarias, sino que también salva la vida de los pacientes con dengue. 
+    p.px-3.pt-1.pb-3(data-aos="fade-up") La atención primaria y secundaria, es crucial para la identificación de los brotes y el inicio de la respuesta oportuna, a continuación, explicamos como es la evaluación:
+    
+    .row
+      .col-sm-12.col-lg-8.offset-lg-2.mb-4.mb-md-0
+        p.p-1(data-aos="fade-up" style="padding-left:13px !important;border-left:4px #ADE65F solid;") #[strong Figura 1] Curso de la enfermedad del Dengue
+        figure.desktop 
+          img(src='@/assets/curso/temas/Tema2/18.png', alt='')
+        figure.movil
+          img(src='@/assets/curso/temas/Tema2/19.png', alt='')
+
+        
+
+
+
+
 </template>
 
 <script>
