@@ -61,25 +61,25 @@
                   h4.mb-0.text-decorator Dengue grave:
               ul.lista-ul--color
                 li 
-                  i.fas.fa-circle
+                  i(style="color:#4462FE").fas.fa-circle
                   | Extravasación severa del plasma conducente a: Síndrome de Choque por dengue (SCD).
                 li
-                  i.fas.fa-circle
+                  i(style="color:#4462FE").fas.fa-circle
                   | Acumulo de líquidos con dificultad respiratoria.
                 li 
-                  i.fas.fa-circle
+                  i(style="color:#4462FE").fas.fa-circle
                   | Hemorragias severas según criterio clínico.
                 li 
-                  i.fas.fa-circle
+                  i(style="color:#4462FE").fas.fa-circle
                   | Daño grave de órganos: Hígado: TGO o TGP > o igual a 1.000.
                 li 
-                  i.fas.fa-circle
+                  i(style="color:#4462FE").fas.fa-circle
                   | Sistema Nervioso Central: Alteraciones estado de consciencia (convulsiones, inconsciencia).
                 li 
-                  i.fas.fa-circle
+                  i(style="color:#4462FE").fas.fa-circle
                   | Corazón: miocarditis o miocardiopatía.
                 li 
-                  i.fas.fa-circle
+                  i(style="color:#4462FE").fas.fa-circle
                   | Otros órganos.
 
     div.d-flex.mb-4.mt-5
@@ -90,7 +90,7 @@
     
     p.px-3.pt-1.pb-3(data-aos="fade-up") Está presente en la inmensa mayoría de los enfermos que se agravan y fallecen, como causa directa de muerte o dando paso a complicaciones tales como: hemorragias masivas, coagulación intravascular diseminada, edema pulmonar no cardiogénico, fallo múltiple de órganos (síndrome de hipoperfusión-reperfusión). 
 
-    .row 
+    .row
       .col-sm-12.col-lg-10.offset-lg-1
         PasosA.color-acento-contenido.mb-5(tipo="n")
           .row
@@ -238,11 +238,6 @@
           img(src='@/assets/curso/temas/Tema2/18.png', alt='')
         figure.movil
           img(src='@/assets/curso/temas/Tema2/19.png', alt='')
-
-        
-
-
-
 
 </template>
 

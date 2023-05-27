@@ -293,8 +293,7 @@ export default {
     {
       referencia:
         'Ministerio de Salud y Protección Social. (s.f.) Abordaje clínico del dengue',
-      link:
-        'https://www.minsalud.gov.co/sites/rid/Lists/BibliotecaDigital/RIDE/VS/PP/ET/presentacion-abordaje-clinico-dengue-vuelta-colombia.pdf',
+      link: 'https://acortar.link/fNswyP',
     },
     {
       referencia:

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="150" viewBox="0 0 400 150">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_46587" data-name="Rectángulo 46587" width="51.871" height="51.875" fill="#f6f6f6"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_160788" data-name="Grupo 160788" transform="translate(-1020 -1173)">
+    <rect id="Rectángulo_46572" data-name="Rectángulo 46572" width="365" height="150" rx="18" transform="translate(1055 1173)" fill="#e2e7fe"/>
+    <text id="Grupo_C:_Tratamiento_intensivo_urgente." data-name="Grupo C: Tratamiento intensivo urgente." transform="translate(1125 1199)" fill="#12263f" font-size="16" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="15">Grupo C: </tspan><tspan y="15" font-family="Roboto-Regular, Roboto" font-weight="400">Tratamiento intensivo </tspan><tspan x="0" y="40" font-family="Roboto-Regular, Roboto" font-weight="400">urgente.</tspan></text>
+    <g id="Grupo_160528" data-name="Grupo 160528" transform="translate(0 -51)">
+      <path id="Trazado_600838" data-name="Trazado 600838" d="M41,0A41,41,0,1,1,0,41,41,41,0,0,1,41,0Z" transform="translate(1020 1258)" fill="#69489b"/>
+      <g id="Grupo_160527" data-name="Grupo 160527" transform="translate(549 269)">
+        <g id="Grupo_160526" data-name="Grupo 160526" transform="translate(486 1003)">
+          <rect id="Rectángulo_46582" data-name="Rectángulo 46582" width="4.056" height="7.669" transform="translate(23.887 0)" fill="#f6f6f6"/>
+          <rect id="Rectángulo_46583" data-name="Rectángulo 46583" width="7.67" height="4.056" transform="translate(44.202 23.928)" fill="#f6f6f6"/>
+          <g id="Grupo_160525" data-name="Grupo 160525">
+            <g id="Grupo_160524" data-name="Grupo 160524" clip-path="url(#clip-path)">
+              <path id="Trazado_600742" data-name="Trazado 600742" d="M26.5,126.868c0-2.245-.093-4.461.023-6.666a6.031,6.031,0,0,1,5.9-5.462c.706,0,1.412,0,2.173,0v-.633q0-6.564,0-13.128a14.19,14.19,0,0,1,28.186-2.37,14.5,14.5,0,0,1,.193,2.315c.018,4.376.009,8.752.009,13.128v.688c.682,0,1.349.007,2.017,0a5.74,5.74,0,0,1,3.672,1.224,5.882,5.882,0,0,1,2.419,4.791c.018,2.026,0,4.052,0,6.115Zm32.435-12.15v-.4c0-4.444.007-8.889-.009-13.333a11.388,11.388,0,0,0-.186-1.86,10.124,10.124,0,0,0-20.081,1.9c-.015,4.427,0,8.855,0,13.282,0,.13.013.26.022.409Zm-28.385,8.1h36.5c0-.54,0-1.045,0-1.55,0-1.7-.767-2.471-2.47-2.471H33.006c-.152,0-.3-.005-.456,0a2.035,2.035,0,0,0-1.991,1.92c-.044.687-.008,1.379-.008,2.1" transform="translate(-22.881 -74.993)" fill="#f6f6f6"/>
+              <path id="Trazado_600743" data-name="Trazado 600743" d="M52.536,50.137l-2.751,2.756-5.619-5.621,2.759-2.751,5.611,5.616" transform="translate(-38.184 -38.491)" fill="#f6f6f6"/>
+              <path id="Trazado_600744" data-name="Trazado 600744" d="M282.345,44.146l2.737,2.749-5.666,5.665-2.741-2.746,5.669-5.668" transform="translate(-239.2 -38.166)" fill="#f6f6f6"/>
+              <rect id="Rectángulo_46584" data-name="Rectángulo 46584" width="7.641" height="3.993" transform="translate(0 23.964)" fill="#f6f6f6"/>
+              <rect id="Rectángulo_46585" data-name="Rectángulo 46585" width="4" height="8.045" transform="translate(23.911 19.91)" fill="#f6f6f6"/>
+              <rect id="Rectángulo_46586" data-name="Rectángulo 46586" width="3.996" height="3.992" transform="translate(23.922 32.065)" fill="#f6f6f6"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
