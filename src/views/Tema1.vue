@@ -12,7 +12,7 @@
         .bloque-texto-a__texto.pt-5.caja_escalada_hover(style="background-color: #E2E7FE;")
           .row(style="padding-left:105px; padding-right:105px")
             .col-sm-12.col-lg-8
-              p(data-aos="fade-up") La infección sintomática por el virus del dengue más comúnmente se presenta como una enfermedad no específica aguda y febril, entre leve y moderada. Aproximadamente 1 de cada 20 pacientes con enfermedad por el virus del dengue evoluciona hacia una enfermedad grave, posiblemente mortal, llamada dengue grave que se puede presentar en las zonas endémicas de mayor riesgo
+              p(data-aos="fade-up") La infección sintomática por el virus del dengue más comúnmente se presenta como una enfermedad no específica aguda y febril, entre leve y moderada. Aproximadamente 1 de cada 20 pacientes con enfermedad por el virus del dengue evoluciona hacia una enfermedad grave, posiblemente mortal, llamada dengue grave que se puede presentar en las zonas endémicas de mayor riesgo.
 
               p(data-aos="fade-up") La patología puede evolucionar a un dengue grave, determinado por choque, dificultad para respirar, sangrado grave y complicaciones graves de los órganos. No hay medicina detallada para tratar el dengue.
             .col-sm-12.col-lg-4
@@ -38,7 +38,7 @@
     #t_1_1.titulo-segundo.mt-2.color-acento-contenido
       h2 1.1 Concepto
   
-    p.my-5(data-aos="fade-up") El dengue es una enfermedad infecciosa sistémica y dinámica. La infección puede cursar de forma asintomática o manifestarse con un espectro clínico amplio, que incluye manifestaciones graves y no graves; es una enfermedad viral aguda, endemo-epidémica, transmitida por la picadura de hembras de mosquitos del género Aedes, principalmente por Aedes aegypti, que constituye hoy la parvovirosis más importante a nivel mundial en términos de morbilidad, mortalidad e impacto económico.
+    p.my-5(data-aos="fade-up") El dengue es una enfermedad infecciosa sistémica y dinámica. La infección puede cursar de forma asintomática o manifestarse con un espectro clínico amplio, que incluye manifestaciones graves y no graves; es una enfermedad viral aguda, endemo-epidémica, transmitida por la picadura de hembras de mosquitos del género Aedes, principalmente por Aedes aegypti, que constituye hoy la Arvovirosis más importante a nivel mundial en términos de morbilidad, mortalidad e impacto económico.
 
     .row
       .col-md-10.offset-1.mb-4.mb-md-0

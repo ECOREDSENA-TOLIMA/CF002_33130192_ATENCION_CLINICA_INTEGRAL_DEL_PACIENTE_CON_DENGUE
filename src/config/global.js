@@ -192,11 +192,6 @@ export default {
         'Es una afección mortal en la que el corazón repentinamente no puede bombear sangre suficiente para satisfacer las necesidades del organismo. En general, la afección es provocada por un ataque cardíaco grave, pero no todas las personas que sufren un ataque cardíaco tienen un choque cardiogénico.',
     },
     {
-      termino: '<em>Cardiogénico</em>',
-      significado:
-        'Es una afección mortal en la que el corazón repentinamente no puede bombear sangre suficiente para satisfacer las necesidades del organismo. En general, la afección es provocada por un ataque cardíaco grave, pero no todas las personas que sufren un ataque cardíaco tienen un choque cardiogénico.',
-    },
-    {
       termino: '<em>Casos</em>',
       significado:
         'Individuo en quien se sospecha, presume o confirma que padece una enfermedad o evento de interés epidemiológico.',
@@ -320,7 +315,7 @@ export default {
     },
     {
       referencia:
-        'Organización Panamericana de la Salud. Dengue. (2010). Guía de atención para enfermos de las regiones de las América.',
+        'Organización Panamericana de la Salud. Dengue. (2010). Guías de atención para enfermos en la región de las Américas.',
       link:
         'https://www.paho.org/hq/dmdocuments/2012/Guias-atencion-enfermos-Americas-2010-esp.pdf',
     },
@@ -335,9 +330,9 @@ export default {
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Norma Constanza Morales Cruz',
           cargo: 'Responsable de línea de producción',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -345,9 +340,41 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Nombre centro de formación',
+          nombre: 'Rosalba Mosquera Mosquera',
+          cargo: 'Experto Temático',
+          centro: 'Regional Antioquia',
+        },
+        {
+          nombre: 'Diego E. Acevedo Guevara',
+          cargo: 'Diseñador Instruccional',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Humberto Arias Díaz',
+          cargo: 'Diseñador Instruccional',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Rafael Neftali Lizcano Reyes',
+          cargo: 'Responsable Equipo de Desarrollo Curricular',
+          centro:
+            'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+        },
+        {
+          nombre: 'Sandra Patricia Hoyos Sepúlveda',
+          cargo: 'Corrección de estilo',
+          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Carolina Coca Salazar',
+          cargo: 'Asesor Metodológico',
+          centro: 'Regional Distrito Capital-Centro de Diseño y Metrología',
+        },
+        {
+          nombre: 'Rosalba Mosquera Mosquera',
+          cargo: 'Asesor Metodológico',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -355,19 +382,34 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador web',
-          centro: 'Nombre centro de formación',
+          nombre: 'Oscar Iván Uribe Ortiz',
+          cargo: 'Diseñador Web',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Sebastián Trujillo Afanador',
           cargo: 'Desarrollador Fullstack',
-          centro: 'Nombre centro de formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Animador y Producción audiovisual',
-          centro: 'Nombre centro de formación',
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Storyboarde Ilustración',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Nelson Iván Vera Briceño',
+          cargo: 'Produccióon audiovisual',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Oleg Litvin',
+          cargo: 'Animador ',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
+        },
+        {
+          nombre: 'Davison Gaitan Escobar',
+          cargo: 'Actividad Didáctica',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },
@@ -375,14 +417,14 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre validador',
+          nombre: 'Jorge Bustos Gómez',
           cargo: 'Validación y vinculación en plataforma LMS',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {
-          nombre: 'Nombre validador',
+          nombre: 'Gilberto Naranjo Farfán',
           cargo: 'Validación de contenidos accesibles',
-          centro: 'Nombre centro formación',
+          centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
       ],
     },

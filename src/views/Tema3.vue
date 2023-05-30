@@ -55,16 +55,16 @@
             ol.lista-ol
               li 
                 span.text-bold 9. 
-                | Signos de alarma
+                | Signos de alarma.
               li 
                 span.text-bold 10. 
-                | Empeoramiento del cuadro clínico a la fase de remisión de la fiebre
+                | Empeoramiento del cuadro clínico a la fase de remisión de la fiebre.
               li 
                 span.text-bold 11. 
-                | Definir el tratamiento a instaurar en cada paciente
+                | Definir el tratamiento a instaurar en cada paciente.
               li 
                 span.text-bold 12. 
-                | Está en choque
+                | Está en choque.
           .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/Tema3/41.svg', alt='')
@@ -73,16 +73,16 @@
             ol.lista-ol
               li 
                 span.text-bold 13. 
-                | Tiene alguna otra complicación en órganos
+                | Tiene alguna otra complicación en órganos.
               li 
                 span.text-bold 14. 
-                | Luego del cuarto y quinto día hay una mejoría de la fiebre y los síntomas
+                | Luego del cuarto y quinto día hay una mejoría de la fiebre y los síntomas.
               li 
                 span.text-bold 15. 
-                | Por lo general, el número de glóbulos blancos comienza a subir poco después de la desaparición de la fiebre
+                | Por lo general, el número de glóbulos blancos comienza a subir poco después de la desaparición de la fiebre.
               li 
                 span.text-bold 16. 
-                | Si se presentan signos de alerta, puede agravar la evolución clínica, convirtiéndose en dengue hemorrágico, o en shock hemorrágico
+                | Si se presentan signos de alerta, puede agravar la evolución clínica, convirtiéndose en dengue hemorrágico, o en shock hemorrágico.
           .col-md-6.mb-4.mb-md-0
             figure
               img(src='@/assets/curso/temas/Tema3/42.svg', alt='')
@@ -111,16 +111,16 @@
     ul.lista-ul--color
       li
         i(style="color: #69489B").fas.fa-circle
-        | Obtener CBC diariamente
+        | Obtener CBC diariamente.
       li
         i(style="color: #69489B").fas.fa-circle
-        | Monitorear posible deshidratación
+        | Monitorear posible deshidratación.
       li
         i(style="color: #69489B").fas.fa-circle
-        | Observar si hay señales de alerta, incluyendo disminución del conteo de plaquetas y aumento de hematocrito
+        | Observar si hay señales de alerta, incluyendo disminución del conteo de plaquetas y aumento de hematocrito.
       li
         i(style="color: #69489B").fas.fa-circle
-        | Velar desaparición de la fiebre (indica inicio de la fase crítica)
+        | Velar desaparición de la fiebre (indica inicio de la fase crítica).
       
     div.d-flex.mb-4.mt-5
       div.p-0.position-relative
@@ -505,7 +505,7 @@
           
     Separador
     #t_3_3.titulo-segundo.mt-2.color-acento-contenido
-      h2 3.4 Criterios de Egresos.
+      h2 3.4 Criterios de Egresos
 
     p.pt-2.pb-3(data-aos="fade-up") El paciente debe cumplir con todos los criterios para decidir dar de alta.:
 
