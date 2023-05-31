@@ -39,7 +39,7 @@
     
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/watch?v=tXpXxAqrsPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     Separador
     #t_2_2.titulo-segundo.mt-2.color-acento-contenido
@@ -233,7 +233,6 @@
     
     .row
       .col-sm-12.col-lg-8.offset-lg-2.mb-4.mb-md-0
-        p.p-1(data-aos="fade-up" style="padding-left:13px !important;border-left:4px #ADE65F solid;") #[strong Figura 1] Curso de la enfermedad del Dengue
         figure.desktop 
           img(src='@/assets/curso/temas/Tema2/18.png', alt='')
         figure.movil

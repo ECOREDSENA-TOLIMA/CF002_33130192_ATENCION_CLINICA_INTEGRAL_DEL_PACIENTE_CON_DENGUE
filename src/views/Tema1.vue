@@ -25,7 +25,7 @@
   
     .row
       .col-md-8.offset-2.mb-4.mb-md-0
-        p.p-1(data-aos="fade-up" style="padding-left:13px !important;border-left:4px #ADE65F solid;") #[strong Figura 1] Curso de la enfermedad del Dengue
+        p.p-1(data-aos="fade-up" style="padding-left:13px !important;border-left:4px #ADE65F solid;") #[strong Figura 1] #[em Curso de la enfermedad del Dengue]
         figure.desktop 
           img(src='@/assets/curso/temas/Tema1/2.svg', alt='')
         figure.movil
@@ -82,7 +82,7 @@
 
     figure(style="margin-bottom:300px")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/watch?v=ixBuFHSPcUQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 </template>
 
 <script>
