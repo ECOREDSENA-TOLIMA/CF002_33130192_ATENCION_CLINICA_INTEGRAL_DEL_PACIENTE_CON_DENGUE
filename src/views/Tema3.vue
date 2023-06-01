@@ -386,7 +386,7 @@
             | Diuresis, Hematocrito (cada 12 - 24 horas)
           li
             i(style="color: #4462FE").fas.fa-circle
-            | Dunción de otros órganos (función renal, hepática).
+            | Función de otros órganos (función renal, hepática).
     .bloque-texto-a__texto.caja_escalada_hover(style="background-color: #F2FBE6; border-radius: 18px")
       .row
         .col-md-4
@@ -476,7 +476,7 @@
       div.p-0.position-relative
         img.mb-0.position-relative(style="width:45px;" src="@/assets/template/ico-01.svg")
       div.py-2.px-3.pe-5
-        h4.mb-0.text-decorator Shock Hipovolémico.:
+        h4.mb-0.text-decorator Shock Hipovolémico:
 
     p Las causas de la hipovolemia son los vómitos, la diarrea y el sangrado excesivo, lo que puede ocasionar un shock, un trastorno posiblemente mortal en el que los órganos no reciben suficiente sangre ni oxígeno.
 
