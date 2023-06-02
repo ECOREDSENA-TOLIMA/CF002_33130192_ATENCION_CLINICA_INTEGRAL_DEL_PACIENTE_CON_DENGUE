@@ -9,8 +9,8 @@
           i.fas.fa-info
       h1 Introducción
 
-    p.mt-5(data-aos="fade-up") El presente componente abarca todos aquellos temas de atención clínica integral del paciente con dengue, es importante recordar que el dengue es una enfermedad dinámica y que el paciente puede evolucionar rápidamente de un estadio a otro.
-    p.mt-5(data-aos="fade-up") El dengue es una de las patologías infecciosas con mayor impacto en Colombia, veamos su desarrollo en el siguiente video:
+    p.mt-3(data-aos="fade-up") El presente componente abarca todos aquellos temas de atención clínica integral del paciente con dengue, es importante recordar que el dengue es una enfermedad dinámica y que el paciente puede evolucionar rápidamente de un estadio a otro.
+    p.mt-3(data-aos="fade-up") El dengue es una de las patologías infecciosas con mayor impacto en Colombia, veamos su desarrollo en el siguiente video:
 
     figure
       .video

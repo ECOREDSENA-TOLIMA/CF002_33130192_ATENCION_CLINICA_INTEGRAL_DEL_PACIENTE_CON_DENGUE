@@ -8,7 +8,7 @@
       h1 Secuencia de los Signos Clínicos
     
     p.mt-5(data-aos="fade-up") Identificar la secuencia de las manifestaciones clínicas y de laboratorio es muy importante para diferenciar el dengue de otra enfermedad que pudiera tener alteraciones semejantes, pero en distinto orden de presentación y, además, constituye la única posibilidad de detectar precozmente cual es el paciente de dengue que puede evolucionar o está ya evolucionando hacia la forma clínica grave como dengue hemorrágico y choque por dengue. 
-    p.my-5(data-aos="fade-up") Veamos el conjunto de síntomas que presenta un enfermo del dengue:
+    p.mt-3(data-aos="fade-up") Veamos el conjunto de síntomas que presenta un enfermo del dengue:
 
     .row.mb-4 
       .col-md-10.offset-1
@@ -27,15 +27,15 @@
         .cajon.color-acento-contenido.pt-4.px-4.pb-3.caja_flotante_azul
           .row
             .col-sm-12.col-lg-7
-              p.px-3.pt-1.pb-3(data-aos="fade-up") Un alto índice de sospecha por parte del médico y su equipo es fundamental para hacer un diagnóstico tentativo de dengue. Hay exámenes como la prueba ELISA que determinan la probabilidad de la enfermedad o la confirman.
-              p.px-3.pt-1.pb-3(data-aos="fade-up") El reconocer los signos de alarma permite un manejo apropiado y rápido del paciente que puede de otra forma entrar en choque y morir.
+              p.px-3.pt-1.pb-2(data-aos="fade-up") Un alto índice de sospecha por parte del médico y su equipo es fundamental para hacer un diagnóstico tentativo de dengue. Hay exámenes como la prueba ELISA que determinan la probabilidad de la enfermedad o la confirman.
+              p.px-3.pt-1.pb-2(data-aos="fade-up") El reconocer los signos de alarma permite un manejo apropiado y rápido del paciente que puede de otra forma entrar en choque y morir.
             .col-sm-12.col-lg-5
               figure
                 img(src='@/assets/curso/temas/Tema2/7.svg', alt='')
 
-    p.px-3.pt-4.pb-3(data-aos="fade-up") El abordaje del paciente con diagnóstico probable de dengue tiene como objetivo identificar la fase clínica de la enfermedad en la que se encuentra el paciente.
+    p.px-2.pt-4.pb-3(data-aos="fade-up") El abordaje del paciente con diagnóstico probable de dengue tiene como objetivo identificar la fase clínica de la enfermedad en la que se encuentra el paciente.
 
-    p.px-3.pt-1.pb-3(data-aos="fade-up") Definiciones de caso:
+    p.px-2.pt-1.pb-3(data-aos="fade-up") Definiciones de caso:
     
     figure
       .video
@@ -58,35 +58,35 @@
                 div.p-0.position-relative
                   img.mb-0.position-relative(style="width:45px;" src="@/assets/template/ico-01.svg")
                 div.py-2.px-3.pe-5
-                  h4.mb-0.text-decorator Dengue grave:
+                  h3.mb-0.text-decorator Dengue grave:
               ul.lista-ul--color
                 li 
-                  i(style="color:#4462FE").fas.fa-circle
+                  i(style="color:#4462FE").fas.fa-circle.fa-xs
                   | Extravasación severa del plasma conducente a: Síndrome de Choque por dengue (SCD).
                 li
-                  i(style="color:#4462FE").fas.fa-circle
+                  i(style="color:#4462FE").fas.fa-circle.fa-xs
                   | Acumulo de líquidos con dificultad respiratoria.
                 li 
-                  i(style="color:#4462FE").fas.fa-circle
+                  i(style="color:#4462FE").fas.fa-circle.fa-xs
                   | Hemorragias severas según criterio clínico.
                 li 
-                  i(style="color:#4462FE").fas.fa-circle
+                  i(style="color:#4462FE").fas.fa-circle.fa-xs
                   | Daño grave de órganos: Hígado: TGO o TGP > o igual a 1.000.
                 li 
-                  i(style="color:#4462FE").fas.fa-circle
+                  i(style="color:#4462FE").fas.fa-circle.fa-xs
                   | Sistema Nervioso Central: Alteraciones estado de consciencia (convulsiones, inconsciencia).
                 li 
-                  i(style="color:#4462FE").fas.fa-circle
+                  i(style="color:#4462FE").fas.fa-circle.fa-xs
                   | Corazón: miocarditis o miocardiopatía.
                 li 
-                  i(style="color:#4462FE").fas.fa-circle
+                  i(style="color:#4462FE").fas.fa-circle.fa-xs
                   | Otros órganos.
 
     div.d-flex.mb-4.mt-5
       div.p-0.position-relative
         img.mb-0.position-relative(style="width:45px;" src="@/assets/template/ico-01.svg")
       div.py-2.px-3.pe-5
-        h4.mb-0.text-decorator Choque por dengue:
+        h3.mb-0.text-decorator Choque por dengue:
     
     p.px-3.pt-1.pb-3(data-aos="fade-up") Está presente en la inmensa mayoría de los enfermos que se agravan y fallecen, como causa directa de muerte o dando paso a complicaciones tales como: hemorragias masivas, coagulación intravascular diseminada, edema pulmonar no cardiogénico, fallo múltiple de órganos (síndrome de hipoperfusión-reperfusión). 
 
@@ -132,16 +132,16 @@
           .col-sm-12.col-lg-7
             ul(style="color:white").lista-ul--color
               li 
-                i.fas.fa-circle
+                i.fas.fa-circle.fa-xs
                 | Personas mayores de 60 años
               li
-                i.fas.fa-circle
+                i.fas.fa-circle.fa-xs
                 | Menores de dos años
               li 
-                i.fas.fa-circle
+                i.fas.fa-circle.fa-xs
                 | Pacientes cardíacos con problemas cardiovasculares
               li 
-                i.fas.fa-circle
+                i.fas.fa-circle.fa-xs
                 | Patologías del corazón o enfermedades crónicas: Se incluyen la obesidad, enfermedades de riñón y diabetes
     br
     br
@@ -150,50 +150,66 @@
       div.p-0.position-relative
         img.mb-0.position-relative(style="width:45px;" src="@/assets/template/ico-01.svg")
       div.py-2.px-3.pe-5
-        h4.mb-0.text-decorator Complicaciones
+        h3.mb-0.text-decorator Complicaciones
     
-    .row.mb-5
+    .row.justify-content-left.mb-5
       .col-sm-12.col-lg-4.mt-2
-        figure
-          img(src="@/assets/curso/temas/Tema2/24.svg", alt="alt").img250
+        .tarjeta--boton.color-secundario.p-4
+          .crd.crd--avatarHorizontal.crd--first.py-4
+            .row.align-items-center
+              .col-auto
+                figure
+                  img(src="@/assets/curso/temas/Tema2/24.svg", alt="alt").img250
+              .col
+                p El dengue grave puede causar hemorragias internas y daños en los órganos.
+                
       .col-sm-12.col-lg-4.mt-2
-        figure
-          img(src="@/assets/curso/temas/Tema2/25.svg", alt="alt").img250
+        .tarjeta--boton.color-secundario.p-4
+          .crd.crd--avatarHorizontal.crd--first.py-4
+            .row.align-items-center
+              .col-auto
+                figure
+                  img(src="@/assets/curso/temas/Tema2/25.svg", alt="alt").img250
+              .col
+                p La presión arterial puede descender a niveles peligrosos y causar choque.
+      
       .col-sm-12.col-lg-4.mt-2
-        figure
-          img(src="@/assets/curso/temas/Tema2/26.svg", alt="alt").img250
-        
-
-
-
+        .tarjeta--boton.color-secundario.p-4
+          .crd.crd--avatarHorizontal.crd--first.py-4
+            .row.align-items-center
+              .col-auto
+                figure
+                  img(src="@/assets/curso/temas/Tema2/26.svg", alt="alt").img250
+              .col
+                p En algunos casos, el dengue grave puede provocar la muerte.
 
     div.d-flex.mb-4.mt-5
       div.p-0.position-relative
         img.mb-0.position-relative(style="width:45px;" src="@/assets/template/ico-01.svg")
       div.py-2.px-3.pe-5
-        h4.mb-0.text-decorator Serotipos de dengue:
+        h3.mb-0.text-decorator Serotipos de dengue:
     
     .row.mb-3
       .col-sm-12.col-md-6.col-lg-3
         figure
-          img(src='@/assets/curso/temas/Tema2/20.png', alt='')
+          img(src='@/assets/curso/temas/Tema2/20.svg', alt='')
       .col-sm-12.col-md-6.col-lg-3
         figure
-          img(src='@/assets/curso/temas/Tema2/21.png', alt='')
+          img(src='@/assets/curso/temas/Tema2/21.svg', alt='')
       .col-sm-12.col-md-6.col-lg-3
         figure
-          img(src='@/assets/curso/temas/Tema2/22.png', alt='')
+          img(src='@/assets/curso/temas/Tema2/22.svg', alt='')
       .col-sm-12.col-md-6.col-lg-3
         figure
-          img(src='@/assets/curso/temas/Tema2/23.png', alt='')
+          img(src='@/assets/curso/temas/Tema2/23.svg', alt='')
     br
-    p.px-3.mt-3.pb-3(data-aos="fade-up") La infección por un serotipo, seguida por otra infección con un serotipo diferente aumenta el riesgo de una persona de padecer dengue grave y hasta morir.
+    p.px-3.mt-3.pb-2(data-aos="fade-up") La infección por un serotipo, seguida por otra infección con un serotipo diferente aumenta el riesgo de una persona de padecer dengue grave y hasta morir.
 
     div.d-flex.mb-4.mt-5
       div.p-0.position-relative
         img.mb-0.position-relative(style="width:45px;" src="@/assets/template/ico-01.svg")
       div.py-2.px-3.pe-5
-        h4.mb-0.text-decorator Factores de Riesgo: 
+        h3.mb-0.text-decorator Factores de Riesgo: 
         
     p.px-3.pt-1.pb-3(data-aos="fade-up") Cualquier característica o circunstancia detectable de una persona o grupo de personas asociadas con la probabilidad de estar especialmente expuesta a desarrollar o padecer un proceso mórbido, sus características se asocian a un cierto tipo de daño a la salud.
     br
@@ -207,8 +223,8 @@
         .pt-4.px-4.pb-3.caja_flotante(style="background-color: #E2E7FE")
           .row
             .col-sm-12.col-lg-7
-          p.px-3.pt-1.pb-3(data-aos="fade-up") Este grupo de riesgo define al dengue como un problema de salud pública en la región de las Américas a pesar de los esfuerzos por parte de los Estados Miembros para contenerlo y mitigar el impacto de las epidemias.
-          p.px-3.pt-1.pb-3(data-aos="fade-up") El dengue requiere abordarse como una única enfermedad con presentaciones clínicas diferentes que van de estados benignos hasta evolución clínica severa y desenlaces que causan la muerte.
+          p.px-3.pt-1.pb-2(data-aos="fade-up") Este grupo de riesgo define al dengue como un problema de salud pública en la región de las Américas a pesar de los esfuerzos por parte de los Estados Miembros para contenerlo y mitigar el impacto de las epidemias.
+          p.px-3.pt-1.pb-2(data-aos="fade-up") El dengue requiere abordarse como una única enfermedad con presentaciones clínicas diferentes que van de estados benignos hasta evolución clínica severa y desenlaces que causan la muerte.
     
     Separador
     #t_2_4.titulo-segundo.mt-2.color-acento-contenido

@@ -3,7 +3,7 @@ export default {
     componenteFormativo: 'Curso de la enfermedad y tratamiento',
     descripcionCurso:
       'El abordaje del paciente con diagnóstico probable de dengue tiene como objetivo identificar la fase clínica de la enfermedad en la que se encuentra. Esta información es necesaria para instaurar un manejo adecuado y rápido evitando así que entre en choque y muera. El manejo puede ser ambulatorio u hospitalario, si presenta inestabilidad hemodinámica o signos de dengue grave.',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
