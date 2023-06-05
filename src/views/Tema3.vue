@@ -131,17 +131,13 @@
 
     ul.lista-ul--color
       li
-        i(style="color: #69489B").fas.fa-circle.fa-xs
-        | Obtener CBC diariamente.
+        |● Obtener CBC diariamente.
       li
-        i(style="color: #69489B").fas.fa-circle.fa-xs
-        | Monitorear posible deshidratación.
+        |● Monitorear posible deshidratación.
       li
-        i(style="color: #69489B").fas.fa-circle.fa-xs
-        | Observar si hay señales de alerta, incluyendo disminución del conteo de plaquetas y aumento de hematocrito.
+        |● Observar si hay señales de alerta, incluyendo disminución del conteo de plaquetas y aumento de hematocrito.
       li
-        i(style="color: #69489B").fas.fa-circle.fa-xs
-        | Velar desaparición de la fiebre (indica inicio de la fase crítica).
+        |● Velar desaparición de la fiebre (indica inicio de la fase crítica).
       
     div.d-flex.mb-4.mt-5
       div.p-0.position-relative
@@ -158,48 +154,35 @@
         
         ul.lista-ul--color
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | Administrar acetaminofén (paracetamol) cada 6 horas (máximo de 4 dosis al día). 
+            |● Administrar acetaminofén (paracetamol) cada 6 horas (máximo de 4 dosis al día). 
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | No usar ibuprofeno, aspirina ni ningún medicamento que contenga aspirina. 
+            |● No usar ibuprofeno, aspirina ni ningún medicamento que contenga aspirina. 
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | Dar baños de esponja con agua tibia cuando la fiebre esté alta.
+            |● Dar baños de esponja con agua tibia cuando la fiebre esté alta.
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | Prevenir la deshidratación administrando suficientes líquidos (no solamente agua).
+            |● Prevenir la deshidratación administrando suficientes líquidos (no solamente agua).
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | Vigile si se presentan signos de deshidratación. 
+            |● Vigile si se presentan signos de deshidratación. 
 
         p.pt-3(data-aos="fade-up") Si presenta alguno de estos signos, llevarlo a emergencias:
 
         ul.lista-ul--color
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | Producción reducida de orina (verifique la cantidad de pañales mojados o viajes al baño).
+            |● Producción reducida de orina (verifique la cantidad de pañales mojados o viajes al baño).
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | Ausencia o cantidad reducida de lágrimas cuando el niño llora.
+            |● Ausencia o cantidad reducida de lágrimas cuando el niño llora.
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | Boca, lengua o labios secos.
+            |● Boca, lengua o labios secos.
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | Ojos hundidos.
+            |● Ojos hundidos.
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | Letargo, agitación o confusión.
+            |● Letargo, agitación o confusión.
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | Ritmo cardiaco acelerado (>100/min).
+            |● Ritmo cardiaco acelerado (>100/min).
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            |  Manos y pies fríos o húmedos. 
+            |●  Manos y pies fríos o húmedos. 
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | Fontanela hundida en los bebés.
+            |● Fontanela hundida en los bebés.
 
     .bloque-texto-a__texto.pt-5.caja_escalada_hover(style="background-color: #E2E7FE;").mt-4.py-5
       p.text-center.pt-3(data-aos="fade-up") Vigilar si se presentan señales de alerta como los siguientes y regrese a emergencias:
@@ -264,17 +247,13 @@
 
     ul.lista-ul--color
       li
-        i(style="color: #69489B").fas.fa-circle.fa-xs
-        | Coloque el paciente bajo un mosquitero o utilice repelente de insectos en el paciente con fiebre para evitar que se infecten mosquitos y puedan infectar a otras personas.
+        |● Coloque el paciente bajo un mosquitero o utilice repelente de insectos en el paciente con fiebre para evitar que se infecten mosquitos y puedan infectar a otras personas.
       li
-        i(style="color: #69489B").fas.fa-circle.fa-xs
-        | MATE los mosquitos que estén dentro de la casa.
+        |● MATE los mosquitos que estén dentro de la casa.
       li
-        i(style="color: #69489B").fas.fa-circle.fa-xs
-        | Vacíe los recipientes que haya en los patios que tengan agua.
+        |● Vacíe los recipientes que haya en los patios que tengan agua.
       li
-        i(style="color: #69489B").fas.fa-circle.fa-xs
-        | Coloque tela metálica en las puertas y ventanas para prevenir que entren mosquitos a la casa.
+        |● Coloque tela metálica en las puertas y ventanas para prevenir que entren mosquitos a la casa.
 
     Separador
     #t_3_1.titulo-segundo.mt-2.color-acento-contenido
@@ -289,56 +268,39 @@
             h3.mb-0.text-decorator Definición:
         ul.lista-ul--color
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | Fiebre de 2 a 7 días (caso probable de dengue).
+            |● Fiebre de 2 a 7 días (caso probable de dengue).
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | No hay hemorragia. 
+            |● No hay hemorragia. 
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | No hay deshidratación.
+            |● No hay deshidratación.
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | No hay signos de alarma o choque.
+            |● No hay signos de alarma o choque.
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | No pertenece a ningún grupo de riesgo.
+            |● No pertenece a ningún grupo de riesgo.
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | Son pacientes que pueden tolerar volúmenes adecuados de líquido por vía oral. 
+            |● Son pacientes que pueden tolerar volúmenes adecuados de líquido por vía oral. 
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | Mantienen buena diuresis.
+            |● Mantienen buena diuresis.
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | No tienen signos de alarma, particularmente durante la defervescencia (transición de la etapa febril a la etapa afebril).
+            |● No tienen signos de alarma, particularmente durante la defervescencia (transición de la etapa febril a la etapa afebril).
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | El paciente ambulatorio debe ser valorado cada 48 horas en busca de signos de alarma hasta que se encuentren fuera del período crítico (al menos dos días después de la caída de la fiebre).
+            |● El paciente ambulatorio debe ser valorado cada 48 horas en busca de signos de alarma hasta que se encuentren fuera del período crítico (al menos dos días después de la caída de la fiebre).
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | Se debe orientar al paciente y a los familiares acerca del reposo en cama.
+            |● Se debe orientar al paciente y a los familiares acerca del reposo en cama.
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | La ingesta de líquidos (Harris et al., 2003) en abundante cantidad (2 litros o más para adultos o lo correspondiente a niños), puede ser leche, sopas o jugos de frutas (excepto cítricos). 
+            |● La ingesta de líquidos (Harris et al., 2003) en abundante cantidad (2 litros o más para adultos o lo correspondiente a niños), puede ser leche, sopas o jugos de frutas (excepto cítricos). 
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | El agua sola no es suficiente para reponer las pérdidas de electrolitos asociadas a sudoración, vómitos u otras pérdidas, además se debe hacer énfasis respecto a los signos de alarma, particularmente en el momento de la caída de la fiebre (Azevedo et al.,2002). 
+            |● El agua sola no es suficiente para reponer las pérdidas de electrolitos asociadas a sudoración, vómitos u otras pérdidas, además se debe hacer énfasis respecto a los signos de alarma, particularmente en el momento de la caída de la fiebre (Azevedo et al.,2002). 
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | Los signos de alarma son: dolor abdominal intenso y continuo, vómitos frecuentes, somnolencia o irritabilidad así́ como el sangrado de mucosas.
+            |● Los signos de alarma son: dolor abdominal intenso y continuo, vómitos frecuentes, somnolencia o irritabilidad así́ como el sangrado de mucosas.
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | Para aliviar los síntomas generales (mialgias, artralgias, cefalea, etc.), se debe controlar la fiebre administrando Acetaminofén (nunca más de 4 g por día para los adultos y a la dosis de 10-15 mg/ Kg de peso en niños), hasta que descienda la fiebre.
+            |● Para aliviar los síntomas generales (mialgias, artralgias, cefalea, etc.), se debe controlar la fiebre administrando Acetaminofén (nunca más de 4 g por día para los adultos y a la dosis de 10-15 mg/ Kg de peso en niños), hasta que descienda la fiebre.
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | No administrar antiinflamatorios no esteroideos (AINES) y los Salicilatos (Aspirina) están contraindicados en pacientes con dengue. 
+            |● No administrar antiinflamatorios no esteroideos (AINES) y los Salicilatos (Aspirina) están contraindicados en pacientes con dengue. 
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | No se debe utilizar ningún medicamento por vía intramuscular.
+            |● No se debe utilizar ningún medicamento por vía intramuscular.
           li
-            i(style="color: #69489B").fas.fa-circle.fa-xs
-            | La Dipirona debe ser considerada para manejo exclusivo de segundo y tercer nivel. 
+            |● La Dipirona debe ser considerada para manejo exclusivo de segundo y tercer nivel. 
       .col-sm-12.col-lg-4.pt-5
         figure
           img(src="@/assets/curso/temas/Tema3/13.svg", alt="alt")
@@ -348,11 +310,39 @@
         img.mb-0.position-relative(style="width:45px;" src="@/assets/template/ico-01.svg")
       div.py-2.px-3.pe-5
         h3.mb-0.text-decorator Seguimiento:
-    figure.desktop 
-      img(src='@/assets/curso/temas/Tema3/14.svg', alt='')
-    figure.movil
-      img(src='@/assets/curso/temas/Tema3/15.png', alt='')
+    
+    SlyderF(columnas="col-lg-6 col-xl-4")
+      .tarjeta.color-secundario.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/Tema3/43.svg' alt='')
+        p.text-center A los pacientes del grupo A se les debe hacer un seguimiento estricto.
 
+      .tarjeta.color-secundario.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/Tema3/44.svg' alt='AvatarTop')
+        p.text-center Se debe realizar una valoración el día de la defervescencia (primer día sin fiebre).
+
+      .tarjeta.color-secundario.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/Tema3/45.svg' alt='AvatarTop')
+        p.text-center Posteriormente evaluación diaria hasta que pase el periodo crítico (48 horas después de la caída de la fiebre).
+
+      .tarjeta.color-secundario.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/Tema3/46.svg' alt='AvatarTop')
+        p.text-center Donde se tiene que evaluar el recuento de plaquetas, hematocrito.
+
+      .tarjeta.color-secundario.p-4
+        .row.justify-content-center.mb-3
+          .col-8
+            img(src='@/assets/curso/temas/Tema3/47.svg' alt='AvatarTop')
+        p.text-center Aparición de signos de alarma.
+
+      
     Separador
     #t_3_2.titulo-segundo.mt-2.color-acento-contenido
       h2 3.2 Atención de segundo nivel
@@ -382,29 +372,21 @@
                   h3.mb-0.text-decorator Laboratorios a realizar en pacientes del Grupo B:
               ul.lista-ul--color
                 li 
-                  i(style="color:#4462FE").fas.fa-circle.fa-xs
-                  | Cuadro hemático completo con el fin de evaluar leucopenia. 
+                  |● Cuadro hemático completo con el fin de evaluar leucopenia. 
                 li
-                  i(style="color:#4462FE").fas.fa-circle.fa-xs
-                  | Trombocitopenia.
+                  |● Trombocitopenia.
                 li 
-                  i(style="color:#4462FE").fas.fa-circle.fa-xs
-                  | Hemoglobina. 
+                  |● Hemoglobina. 
                 li 
-                  i(style="color:#4462FE").fas.fa-circle.fa-xs
-                  | Hematocrito.
+                  |● Hematocrito.
                 li 
-                  i(style="color:#4462FE").fas.fa-circle.fa-xs
-                  | Transaminasas (ALT, AST), T.
+                  |● Transaminasas (ALT, AST), T.
                 li 
-                  i(style="color:#4462FE").fas.fa-circle.fa-xs
-                  | Tiempos de coagulación (PT, PTT).
+                  |● Tiempos de coagulación (PT, PTT).
                 li 
-                  i(style="color:#4462FE").fas.fa-circle.fa-xs
-                  | EIgM dengue.
+                  |● EIgM dengue.
                 li 
-                  i(style="color:#4462FE").fas.fa-circle.fa-xs
-                  | Electrocardiograma en paciente con alteraciones del ritmo cardiaco.
+                  |● Electrocardiograma en paciente con alteraciones del ritmo cardiaco.
     
     Separador
     #t_3_3.titulo-segundo.mt-2.color-acento-contenido
@@ -428,17 +410,13 @@
 
         ul.lista-ul--color
           li
-            i(style="color: #4462FE").fas.fa-circle.fa-xs
-            | A los pacientes del grupo C se les debe hacer un seguimiento estricto y monitorear signos de alarma y el balance de líquidos hasta que pase la fase crítica.
+            |● A los pacientes del grupo C se les debe hacer un seguimiento estricto y monitorear signos de alarma y el balance de líquidos hasta que pase la fase crítica.
           li
-            i(style="color: #4462FE").fas.fa-circle.fa-xs
-            |	Se debe monitorear cada hora los signos vitales y la perfusión periférica (tensión arterial, frecuencia cardiaca, frecuencia respiratoria, PAM).
+            |●	Se debe monitorear cada hora los signos vitales y la perfusión periférica (tensión arterial, frecuencia cardiaca, frecuencia respiratoria, PAM).
           li
-            i(style="color: #4462FE").fas.fa-circle.fa-xs
-            | Diuresis, Hematocrito (cada 12 - 24 horas)
+            |● Diuresis, Hematocrito (cada 12 - 24 horas)
           li
-            i(style="color: #4462FE").fas.fa-circle.fa-xs
-            | Función de otros órganos (función renal, hepática).
+            |● Función de otros órganos (función renal, hepática).
     .bloque-texto-a__texto.caja_escalada_hover(style="background-color: #F2FBE6; border-radius: 18px")
       .row
         .col-md-4
@@ -448,38 +426,27 @@
           p.pt-3.pb-3(data-aos="fade-up") #[strong Laboratorios a realizar en pacientes del Grupo C: ]
           ul.lista-ul--color
             li
-              i(style="color: #4462FE").fas.fa-circle.fa-xs
-              | IgM dengue o aislamiento viral obligatorio.
+              |● IgM dengue o aislamiento viral obligatorio.
             li
-              i(style="color: #4462FE").fas.fa-circle.fa-xs
-              | Hematocrito, hemoglobina, plaquetas, leucograma y otros de acuerdo a necesidad de gases arteriales.
+              |● Hematocrito, hemoglobina, plaquetas, leucograma y otros de acuerdo a necesidad de gases arteriales.
             li
-              i(style="color: #4462FE").fas.fa-circle.fa-xs
-              | Electrolitos. 
+              |● Electrolitos. 
             li
-              i(style="color: #4462FE").fas.fa-circle.fa-xs
-              | Transaminasas. 
+              |● Transaminasas. 
             li
-              i(style="color: #4462FE").fas.fa-circle.fa-xs
-              | Albúmina. 
+              |● Albúmina. 
             li
-              i(style="color: #4462FE").fas.fa-circle.fa-xs
-              | Rx tórax. 
+              |● Rx tórax. 
             li
-              i(style="color: #4462FE").fas.fa-circle.fa-xs
-              | Eco abdominal.
+              |● Eco abdominal.
             li
-              i(style="color: #4462FE").fas.fa-circle.fa-xs
-              | Electrocardiograma.
+              |● Electrocardiograma.
             li
-              i(style="color: #4462FE").fas.fa-circle.fa-xs
-              | Ecocardiograma. 
+              |● Ecocardiograma. 
             li
-              i(style="color: #4462FE").fas.fa-circle.fa-xs
-              | Pruebas de función renal, en pacientes con sospecha de encefalitis. 
+              |● Pruebas de función renal, en pacientes con sospecha de encefalitis. 
             li
-              i(style="color: #4462FE").fas.fa-circle.fa-xs
-              | Convulsiones o signos de focalización se debe tomar TAC de cráneo simple.
+              |● Convulsiones o signos de focalización se debe tomar TAC de cráneo simple.
 
     .row.mt-5
       .col-sm-12.col-lg-10.offset-lg-1
@@ -587,17 +554,13 @@
 
     ul.lista-ul--color
       li
-        i(style="color: #4462FE").fas.fa-circle.fa-xs
-        | Ausencia de fiebre de 24 - 48 horas.
+        |● Ausencia de fiebre de 24 - 48 horas.
       li
-        i(style="color: #4462FE").fas.fa-circle.fa-xs
-        |	Mejoría del estado clínico (estado general, apetito, gasto urinario, estabilidad hemodinámica, no signos de dificultad respiratoria).
+        |●	Mejoría del estado clínico (estado general, apetito, gasto urinario, estabilidad hemodinámica, no signos de dificultad respiratoria).
       li
-        i(style="color: #4462FE").fas.fa-circle.fa-xs
-        | Tendencia al aumento en el recuento plaquetario, usualmente precedido de aumento en los leucocitos.
+        |● Tendencia al aumento en el recuento plaquetario, usualmente precedido de aumento en los leucocitos.
       li
-        i(style="color: #4462FE").fas.fa-circle.fa-xs
-        | Hematocrito estable aún sin líquidos endovenosos.
+        |● Hematocrito estable aún sin líquidos endovenosos.
 
     figure
       img(src='@/assets/curso/temas/Tema3/38.svg', alt='')

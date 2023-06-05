@@ -24,13 +24,12 @@
     p.my-3(data-aos="fade-up") Evolucionando hacia la forma clínica grave, como son el dengue hemorrágico y el choque por dengue. En los primeros días aparece exantema en un porcentaje variable de los casos; no se ha demostrado que el exantema sea un factor pronostico.
   
     .row
-      .col-md-8.offset-2.mb-4.mb-md-0
+      .col-sm-12.col-lg-8.offset-lg-2.mb-4.mb-md-0 
         p.p-1(data-aos="fade-up" style="padding-left:13px !important;border-left:4px #ADE65F solid;") #[strong Figura 1] #[em Curso de la enfermedad del Dengue]
         figure.desktop 
           img(src='@/assets/curso/temas/Tema1/2.svg', alt='')
         figure.movil
           img(src='@/assets/curso/temas/Tema1/3.svg', alt='')
-      .col-md-10.offset-1.mb-4.mb-md-0
         .bloque-texto-a__texto.caja_escalada_hover(style="background-color: #F6F6F6;")
           p.px-3.pt-1.pb-3(data-aos="fade-up") Nota: Guías para la atención de enfermos en la Región de las Américas 2016¹³. Adoptado de Yip WCL, et al 1980.
 

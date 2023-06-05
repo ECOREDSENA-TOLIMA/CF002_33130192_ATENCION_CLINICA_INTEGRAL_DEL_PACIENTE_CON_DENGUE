@@ -61,26 +61,26 @@
                   h3.mb-0.text-decorator Dengue grave:
               ul.lista-ul--color
                 li 
-                  i(style="color:#4462FE").fas.fa-circle.fa-xs
-                  | Extravasación severa del plasma conducente a: Síndrome de Choque por dengue (SCD).
+                  i(style="color:#4462FE")
+                  |● Extravasación severa del plasma conducente a: Síndrome de Choque por dengue (SCD).
                 li
-                  i(style="color:#4462FE").fas.fa-circle.fa-xs
-                  | Acumulo de líquidos con dificultad respiratoria.
+                  i(style="color:#4462FE")
+                  |● Acumulo de líquidos con dificultad respiratoria.
                 li 
-                  i(style="color:#4462FE").fas.fa-circle.fa-xs
-                  | Hemorragias severas según criterio clínico.
+                  i(style="color:#4462FE")
+                  |● Hemorragias severas según criterio clínico.
                 li 
-                  i(style="color:#4462FE").fas.fa-circle.fa-xs
-                  | Daño grave de órganos: Hígado: TGO o TGP > o igual a 1.000.
+                  i(style="color:#4462FE")
+                  |● Daño grave de órganos: Hígado: TGO o TGP > o igual a 1.000.
                 li 
-                  i(style="color:#4462FE").fas.fa-circle.fa-xs
-                  | Sistema Nervioso Central: Alteraciones estado de consciencia (convulsiones, inconsciencia).
+                  i(style="color:#4462FE")
+                  |● Sistema Nervioso Central: Alteraciones estado de consciencia (convulsiones, inconsciencia).
                 li 
-                  i(style="color:#4462FE").fas.fa-circle.fa-xs
-                  | Corazón: miocarditis o miocardiopatía.
+                  i(style="color:#4462FE")
+                  |● Corazón: miocarditis o miocardiopatía.
                 li 
-                  i(style="color:#4462FE").fas.fa-circle.fa-xs
-                  | Otros órganos.
+                  i(style="color:#4462FE")
+                  |● Otros órganos.
 
     div.d-flex.mb-4.mt-5
       div.p-0.position-relative
@@ -131,18 +131,14 @@
             img(src='@/assets/curso/temas/Tema2/13.svg', alt='')
           .col-sm-12.col-lg-7
             ul(style="color:white").lista-ul--color
-              li 
-                i.fas.fa-circle.fa-xs
-                | Personas mayores de 60 años
+              li                
+                |● Personas mayores de 60 años
               li
-                i.fas.fa-circle.fa-xs
-                | Menores de dos años
+                |● Menores de dos años
               li 
-                i.fas.fa-circle.fa-xs
-                | Pacientes cardíacos con problemas cardiovasculares
+                |● Pacientes cardíacos con problemas cardiovasculares
               li 
-                i.fas.fa-circle.fa-xs
-                | Patologías del corazón o enfermedades crónicas: Se incluyen la obesidad, enfermedades de riñón y diabetes
+                |● Patologías del corazón o enfermedades crónicas: Se incluyen la obesidad, enfermedades de riñón y diabetes
     br
     br
 
