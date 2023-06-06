@@ -97,9 +97,9 @@
 
     .row.justify-content-left.mb-5
       .col-sm-12.col-lg-4.mt-2
-        .tarjeta--boton.color-secundario.p-4
-          .crd.crd--avatarHorizontal.crd--first.py-4
-            .row.align-items-center
+        .tarjeta--boton.color-secundario.p-4(style="height:100%")
+          .crd.crd--avatarHorizontal.crd--first.py-4(style="height:100%")
+            .row.justify-content-center.align-items-center(style="height:100%")
               .col-auto
                 figure
                   img(src="@/assets/curso/temas/Tema3/1.svg", alt="alt").img250
@@ -107,9 +107,9 @@
                 p #[strong Grupo A:] Tratamiento ambulatorio (sintomático e hidratación) con indicaciones, signos de alarma y control el primer día sin fiebre.
                 
       .col-sm-12.col-lg-4.mt-2
-        .tarjeta--boton.color-secundario.p-4
-          .crd.crd--avatarHorizontal.crd--first.py-4
-            .row.align-items-center
+        .tarjeta--boton.color-secundario.p-4(style="height:100%")
+          .crd.crd--avatarHorizontal.crd--first.py-4(style="height:100%")
+            .row.justify-content-center.align-items-center(style="height:100%")
               .col-auto
                 figure
                   img(src="@/assets/curso/temas/Tema3/2.svg", alt="alt").img250
@@ -117,9 +117,9 @@
                 p #[strong Grupo B:]  Hospitalización para una estrecha observación y tratamiento médico.
       
       .col-sm-12.col-lg-4.mt-2
-        .tarjeta--boton.color-secundario.p-4
-          .crd.crd--avatarHorizontal.crd--first.py-4
-            .row.align-items-center
+        .tarjeta--boton.color-secundario.p-4(style="height:100%")
+          .crd.crd--avatarHorizontal.crd--first.py-4(style="height:100%")
+            .row.justify-content-center.align-items-center(style="height:100%")
               .col-auto
                 figure
                   img(src="@/assets/curso/temas/Tema3/3.svg", alt="alt").img250

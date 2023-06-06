@@ -150,8 +150,8 @@
     
     .row.justify-content-left.mb-5
       .col-sm-12.col-lg-4.mt-2
-        .tarjeta--boton.color-secundario.p-4
-          .crd.crd--avatarHorizontal.crd--first.py-4
+        .tarjeta--boton.color-secundario.p-4(style="height:100%")
+          .crd.crd--avatarHorizontal.crd--first.py-4(style="height:100%")
             .row.align-items-center
               .col-auto
                 figure
@@ -160,8 +160,8 @@
                 p El dengue grave puede causar hemorragias internas y daños en los órganos.
                 
       .col-sm-12.col-lg-4.mt-2
-        .tarjeta--boton.color-secundario.p-4
-          .crd.crd--avatarHorizontal.crd--first.py-4
+        .tarjeta--boton.color-secundario.p-4(style="height:100%")
+          .crd.crd--avatarHorizontal.crd--first.py-4(style="height:100%")
             .row.align-items-center
               .col-auto
                 figure
@@ -170,8 +170,8 @@
                 p La presión arterial puede descender a niveles peligrosos y causar choque.
       
       .col-sm-12.col-lg-4.mt-2
-        .tarjeta--boton.color-secundario.p-4
-          .crd.crd--avatarHorizontal.crd--first.py-4
+        .tarjeta--boton.color-secundario.p-4(style="height:100%")
+          .crd.crd--avatarHorizontal.crd--first.py-4(style="height:100%")
             .row.align-items-center
               .col-auto
                 figure
