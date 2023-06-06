@@ -15,7 +15,7 @@
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center
           .col-md-6(style="padding-left:70px")
-            p.pb-3(data-aos="fade-up") #[strong Tratamiento del Dengue]
+            p.pb-3(data-aos="fade-up") #[strong Tratamiento del dengue]
             ol.lista-ol
               li 
                 span.text-bold 1. 
@@ -126,7 +126,7 @@
               .col
                 p #[strong Grupo C:] Tratamiento intensivo urgente.             
 
-    p.pb-3(data-aos="fade-up") #[strong Manejo Ambulatorio]
+    p.pb-3(data-aos="fade-up") #[strong Manejo ambulatorio]
     p.pb-3(data-aos="fade-up") Durante la fase febril (que puede durar de 2 a 7 días) y posteriormente durante la fase crítica (1-2 días) se debe:
 
     ul.lista-ul--color
@@ -390,7 +390,7 @@
     
     Separador
     #t_3_3.titulo-segundo.mt-2.color-acento-contenido
-      h2 3.3 Atención de Tercer Nivel
+      h2 3.3 Atención de tercer nivel
 
     p.pt-3.pb-3(data-aos="fade-up") #[strong Grupo C: ]Pacientes que requieren tratamiento de emergencia y cuidados intensivos porque tienen dengue grave.
     figure.desktop 
