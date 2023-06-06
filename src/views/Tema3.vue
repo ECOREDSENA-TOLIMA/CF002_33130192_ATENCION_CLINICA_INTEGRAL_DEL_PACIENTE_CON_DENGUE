@@ -495,7 +495,7 @@
       div.p-0.position-relative
         img.mb-0.position-relative(style="width:45px;" src="@/assets/template/ico-01.svg")
       div.py-2.px-3.pe-5
-        h3.mb-0.text-decorator Shock Hipovolémico:
+        h3.mb-0.text-decorator Shock hipovolémico:
 
     p Las causas de la hipovolemia son los vómitos, la diarrea y el sangrado excesivo, lo que puede ocasionar un shock, un trastorno posiblemente mortal en el que los órganos no reciben suficiente sangre ni oxígeno.
 
@@ -551,7 +551,7 @@
            
     Separador
     #t_3_3.titulo-segundo.mt-2.color-acento-contenido
-      h2 3.4 Criterios de Egresos
+      h2 3.4 Criterios de egresos
 
     p.pt-2.pb-3(data-aos="fade-up") El paciente debe cumplir con todos los criterios para decidir dar de alta.:
 
