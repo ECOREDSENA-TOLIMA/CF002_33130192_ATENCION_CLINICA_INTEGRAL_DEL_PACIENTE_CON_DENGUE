@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Secuencia de los Signos Clínicos
+      h1 Secuencia de los signos clínicos
     
     p.mt-5(data-aos="fade-up") Identificar la secuencia de las manifestaciones clínicas y de laboratorio es muy importante para diferenciar el dengue de otra enfermedad que pudiera tener alteraciones semejantes, pero en distinto orden de presentación y, además, constituye la única posibilidad de detectar precozmente cual es el paciente de dengue que puede evolucionar o está ya evolucionando hacia la forma clínica grave como dengue hemorrágico y choque por dengue. 
     p.mt-3(data-aos="fade-up") Veamos el conjunto de síntomas que presenta un enfermo del dengue:
@@ -43,7 +43,7 @@
     
     Separador
     #t_2_2.titulo-segundo.mt-2.color-acento-contenido
-      h2 2.2 Clasificación para el manejo del Dengue:
+      h2 2.2 Clasificación para el manejo del dengue:
 
     .row
       .col-md-12
@@ -122,7 +122,7 @@
                
     Separador
     #t_2_3.titulo-segundo.mt-2.color-acento-contenido
-      h2 2.3 Grupos de Riesgo
+      h2 2.3 Grupos de riesgo
 
     .col-md-12
       .bloque-texto-a__texto.caja_escalada_hover(style="background-color: #54397C; border-radius: 15px")
@@ -205,7 +205,7 @@
       div.p-0.position-relative
         img.mb-0.position-relative(style="width:45px;" src="@/assets/template/ico-01.svg")
       div.py-2.px-3.pe-5
-        h3.mb-0.text-decorator Factores de Riesgo: 
+        h3.mb-0.text-decorator Factores de riesgo: 
         
     p.px-3.pt-1.pb-3(data-aos="fade-up") Cualquier característica o circunstancia detectable de una persona o grupo de personas asociadas con la probabilidad de estar especialmente expuesta a desarrollar o padecer un proceso mórbido, sus características se asocian a un cierto tipo de daño a la salud.
     br

@@ -249,7 +249,7 @@
       li
         |● Coloque el paciente bajo un mosquitero o utilice repelente de insectos en el paciente con fiebre para evitar que se infecten mosquitos y puedan infectar a otras personas.
       li
-        |● MATE los mosquitos que estén dentro de la casa.
+        |● Mate los mosquitos que estén dentro de la casa.
       li
         |● Vacíe los recipientes que haya en los patios que tengan agua.
       li
@@ -499,15 +499,18 @@
 
     p Las causas de la hipovolemia son los vómitos, la diarrea y el sangrado excesivo, lo que puede ocasionar un shock, un trastorno posiblemente mortal en el que los órganos no reciben suficiente sangre ni oxígeno.
 
-    .bloque-texto-a__texto.caja_escalada_hover(style="background-color: #F2FBE6; border-radius: 18px")
-      .row
-        .col-md-7.offset-1
-          p.pt-5.pb-1(data-aos="fade-up") Los síntomas incluyen debilidad, fatiga, desmayos y mareos.
-          p.pb-1(data-aos="fade-up") Puede requerir tratamiento de emergencia, incluida la administración de fluidos o de sangre por vía intravenosa.
-          p.pb-1(data-aos="fade-up") El shock ocurre cuando no hay suficiente suministro de sangre y oxígeno a sus órganos y tejidos. Puede causar baja presión y ser un peligro para la vida. El shock suele suceder con una lesión grave.
-        .col-md-3
-          figure(style="margin-top:70px; margin-left:20px")
-            img(src='@/assets/curso/temas/Tema3/34.svg', alt='')
+    .row
+      .col-sm-12.col-lg-12.mb-4.mb-md-0
+        .bloque-texto-a__texto.pt-5.caja_escalada_hover(style="background-color: #F2FBE6;")
+          .row
+            .col-sm-12.col-lg-7.offset-lg-1
+              p.px-3.pt-1.pb-2(data-aos="fade-up") Los síntomas incluyen debilidad, fatiga, desmayos y mareos.
+              p.px-3.pt-1.pb-2(data-aos="fade-up") Puede requerir tratamiento de emergencia, incluida la administración de fluidos o de sangre por vía intravenosa.
+              p.px-3.pt-1.pb-2(data-aos="fade-up") El shock ocurre cuando no hay suficiente suministro de sangre y oxígeno a sus órganos y tejidos. Puede causar baja presión y ser un peligro para la vida. El shock suele suceder con una lesión grave.
+            .col-sm-12.col-lg-4
+              figure
+                img(src='@/assets/curso/temas/Tema3/34.svg', alt='')
+
     br
     p.text-center.mt-5 En el curso del shock pueden reconocerse arbitrariamente tres fases:
     
