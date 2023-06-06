@@ -145,7 +145,7 @@ export default {
       {
         icono: 'fas fa-download',
         titulo: 'Descargar material',
-        download: 'downloads/material.rar',
+        download: 'downloads/material.zip',
       },
       {
         icono: 'far fa-registered',
