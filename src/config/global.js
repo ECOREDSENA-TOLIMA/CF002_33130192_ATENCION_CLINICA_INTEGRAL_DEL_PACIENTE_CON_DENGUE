@@ -160,23 +160,23 @@ export default {
       referencia:
         'CD55.R6 - Estrategia para la prevención y el control de las enfermedades arbovirales. (s. f.). OPS/OMS | Organización Panamericana de la Salud. Recuperado 14 de septiembre de 2022, ',
       tipo: 'Página de internet',
-      descarga:
+      link:
         'https://www.paho.org/es/documentos/cd55r6-estrategia-para-prevencion-control-enfermedades-arbovirales',
     },
     {
       tema: 'Secuencias de los signos clínicos',
       referencia:
-        'Usme-Ciro, José A., Gómez-Castañeda, Alba M., & Gallego-Gómez, Juan C.. (2012). Detección molecular y tipificación del virus dengue por RT-PCR y PCR anidada usando oligonucleótidos mejorados. Revista Salud Uninorte, 28(1), 1-15. Retrieved September 14, 2022, from ',
+        'Usme-Ciro, José A., Gómez-Castañeda, Alba M., & Gallego-Gómez, Juan C.. (2012). Detección molecular y tipificación del virus dengue por RT-PCR y PCR anidada usando oligonucleótidos mejorados. Revista Salud Uninorte, 28(1), 1-15. Retrieved September 14, 2022',
       tipo: 'Artículo',
       link:
-        'http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-55522012000100002&lng=en&tlng=es',
+        'https://rcientificas.uninorte.edu.co/index.php/salud/article/view/4355',
     },
     {
       tema: 'Tratamiento',
       referencia:
         'Frantchez, V. (s. f.). Dengue en adultos: diagnóstico, tratamiento y abordaje de situaciones especiales. Recuperado 14 de septiembre de 2022',
       tipo: 'Revista médica',
-      descarga:
+      link:
         'http://www.scielo.edu.uy/scielo.php?script=sci_arttext&pid=S1688-03902016000100006',
     },
   ],
@@ -403,7 +403,7 @@ export default {
         },
         {
           nombre: 'Nelson Iván Vera Briceño',
-          cargo: 'Produccióon audiovisual',
+          cargo: 'Producción audiovisual',
           centro: 'Regional Tolima Centro de Comercio y Servicios',
         },
         {

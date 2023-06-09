@@ -37,7 +37,7 @@
     #t_1_1.titulo-segundo.mt-2.color-acento-contenido
       h2 1.1 Concepto
   
-    p.my-5(data-aos="fade-up") El dengue es una enfermedad infecciosa sistémica y dinámica. La infección puede cursar de forma asintomática o manifestarse con un espectro clínico amplio, que incluye manifestaciones graves y no graves; es una enfermedad viral aguda, endemo-epidémica, transmitida por la picadura de hembras de mosquitos del género Aedes, principalmente por Aedes aegypti, que constituye hoy la Arvovirosis más importante a nivel mundial en términos de morbilidad, mortalidad e impacto económico.
+    p.my-5(data-aos="fade-up") El dengue es una enfermedad infecciosa sistémica y dinámica. La infección puede cursar de forma asintomática o manifestarse con un espectro clínico amplio, que incluye manifestaciones graves y no graves; es una enfermedad viral aguda, endemo-epidémica, transmitida por la picadura de hembras de mosquitos del género Aedes, principalmente por #[em Aedes aegypti], que constituye hoy la Arbovirosis más importante a nivel mundial en términos de morbilidad, mortalidad e impacto económico.
 
     .row
       .col-md-10.offset-1.mb-4.mb-md-0

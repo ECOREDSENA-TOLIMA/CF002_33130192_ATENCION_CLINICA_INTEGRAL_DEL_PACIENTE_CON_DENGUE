@@ -226,7 +226,7 @@
               .row.justify-content-center.mb-3
                 .col-8
                   img(src="@/assets/curso/temas/Tema3/10.svg", alt="alt").mt-0
-              p.text-center.mb-0(style='color: black;') Somnolencia o irritabilidad
+              p.text-center.mb-0(style='color: black;') Somnolencia e irritabilidad
 
             .tarjeta.tarjeta--slyder.p-4.tarjeta--blanca.mt-5
               .row.justify-content-center.mb-3
@@ -524,7 +524,7 @@
                   img(src="@/assets/curso/temas/Tema3/35.svg", alt="alt")
               .col
                 p #[strong Fase 1] 
-                p Hipotensión compensada (shock precoz)
+                p Hipotensión compensada (shock precoz).
 
       .col-sm-12.col-lg-4
         .tarjeta--boton.color-secundario.p-4
@@ -532,7 +532,7 @@
             .row.align-items-center
               .col-auto
                 figure
-                  img(src="@/assets/curso/temas/Tema3/35.svg", alt="alt")
+                  img(src="@/assets/curso/temas/Tema3/36.svg", alt="alt")
               .col
                 p #[strong Fase 2] 
                 br
@@ -544,7 +544,7 @@
             .row.align-items-center
               .col-auto
                 figure
-                  img(src="@/assets/curso/temas/Tema3/35.svg", alt="alt")
+                  img(src="@/assets/curso/temas/Tema3/37.svg", alt="alt")
               .col
                 p #[strong Fase 3] 
                 p Daño celular y orgánico o shock irreversible.                         
@@ -553,7 +553,7 @@
     #t_3_3.titulo-segundo.mt-2.color-acento-contenido
       h2 3.4 Criterios de egresos
 
-    p.pt-2.pb-3(data-aos="fade-up") El paciente debe cumplir con todos los criterios para decidir dar de alta.:
+    p.pt-2.pb-3(data-aos="fade-up") El paciente debe cumplir con todos los criterios para decidir dar de alta:
 
     ul.lista-ul--color
       li
@@ -583,7 +583,7 @@ export default {
       {
         titulo: '',
         texto:
-          'En el caso de estar fuera de una institución en tercer nivel el paciente debe ser remitido en ambulancia medicalizada',
+          'En el caso de estar fuera de una institución en tercer nivel el paciente debe ser remitido en ambulancia medicalizada.',
         imagen: require('@/assets/curso/temas/Tema3/22.svg'),
       },
       {
@@ -595,13 +595,13 @@ export default {
       {
         titulo: '',
         texto:
-          'Los pacientes con choque por dengue deben ser monitoreados frecuentemente hasta que el periodo de peligro haya pasado',
+          'Los pacientes con choque por dengue deben ser monitoreados frecuentemente hasta que el periodo de peligro haya pasado.',
         imagen: require('@/assets/curso/temas/Tema3/24.svg'),
       },
       {
         titulo: '',
         texto:
-          'Debe mantenerse un cuidadoso balance de todos los líquidos que recibe y pierde',
+          'Debe mantenerse un cuidadoso balance de todos los líquidos que recibe y pierde.',
         imagen: require('@/assets/curso/temas/Tema3/25.svg'),
       },
       {
