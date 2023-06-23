@@ -8,7 +8,7 @@
       h1 Secuencia de los signos clínicos
     
     p.mt-5(data-aos="fade-up") Identificar la secuencia de las manifestaciones clínicas y de laboratorio es muy importante para diferenciar el dengue de otra enfermedad que pudiera tener alteraciones semejantes, pero en distinto orden de presentación y, además, constituye la única posibilidad de detectar precozmente cual es el paciente de dengue que puede evolucionar o está ya evolucionando hacia la forma clínica grave como dengue hemorrágico y choque por dengue. 
-    p.mt-3(data-aos="fade-up") Veamos el conjunto de síntomas que presenta un enfermo del dengue:
+    p.mt-3(data-aos="fade-up") Estos son el conjunto de síntomas que presenta un enfermo del dengue:
 
     .row.mb-4 
       .col-md-10.offset-1
